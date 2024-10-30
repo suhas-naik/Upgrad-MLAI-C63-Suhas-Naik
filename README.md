@@ -5,4 +5,4 @@ Bike Sharing Assignment - (Suhas Naik).ipynb - Contains developed Linear regress
 
 Assignment Questions (Suhas Naik).pdf - Contains all the questionaries been asked.
 
-Thank you.
+Thank you
